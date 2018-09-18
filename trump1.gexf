@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-09-18">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="category" title="category" type="string"></attribute>
+      <attribute id="weight" title="Weight" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="@realDonaldTrump">
+        <attvalues>
+          <attvalue for="category" value="Trump / Family"></attvalue>
+          <attvalue for="weight" value="84"></attvalue>
+        </attvalues>
+        <viz:size value="200.0"></viz:size>
+        <viz:position x="-1284.8226" y="-1009.08887"></viz:position>
+        <viz:color r="255" g="218" b="0"></viz:color>
+      </node>
+      <node id="2" label="@WhiteHouse">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="62"></attvalue>
+        </attvalues>
+        <viz:size value="149.0244"></viz:size>
+        <viz:position x="-899.97125" y="-1286.822"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="3" label="@foxandfriends">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="48"></attvalue>
+        </attvalues>
+        <viz:size value="116.585365"></viz:size>
+        <viz:position x="-682.1806" y="-920.5385"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="4" label="@FoxNews">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="48"></attvalue>
+        </attvalues>
+        <viz:size value="116.585365"></viz:size>
+        <viz:position x="-961.4275" y="-745.7783"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="5" label="@Scavino45">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="93.414635"></viz:size>
+        <viz:position x="-882.32513" y="-418.89917"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="6" label="@LouDobbs">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="40.12195"></viz:size>
+        <viz:position x="-1116.795" y="-622.73486"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="7" label="@EricTrump">
+        <attvalues>
+          <attvalue for="category" value="Trump / Family"></attvalue>
+          <attvalue for="weight" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="33.17073"></viz:size>
+        <viz:position x="-875.6193" y="-1075.1909"></viz:position>
+        <viz:color r="255" g="218" b="0"></viz:color>
+      </node>
+      <node id="8" label="@fema">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="30.853659"></viz:size>
+        <viz:position x="-1294.6279" y="-1328.4653"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="9" label="@FLOTUS">
+        <attvalues>
+          <attvalue for="category" value="Trump / Family"></attvalue>
+          <attvalue for="weight" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="28.536585"></viz:size>
+        <viz:position x="-1551.4343" y="-856.58716"></viz:position>
+        <viz:color r="255" g="218" b="0"></viz:color>
+      </node>
+      <node id="10" label="@IvankaTrump">
+        <attvalues>
+          <attvalue for="category" value="Trump / Family"></attvalue>
+          <attvalue for="weight" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.219513"></viz:size>
+        <viz:position x="-519.0602" y="-1002.64813"></viz:position>
+        <viz:color r="255" g="218" b="0"></viz:color>
+      </node>
+      <node id="11" label="@nytimes">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.219513"></viz:size>
+        <viz:position x="-692.77997" y="-652.147"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="12" label="@DHSgov">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-742.72125" y="-1127.5592"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="13" label="@DanScavino">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.585365"></viz:size>
+        <viz:position x="-585.87646" y="-1157.5903"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="14" label="@SecPompeo">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.585365"></viz:size>
+        <viz:position x="-1431.4269" y="-1256.0813"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="15" label="@CNN">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.585365"></viz:size>
+        <viz:position x="-654.3327" y="-1168.5115"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="16" label="@TuckerCarlson">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.585365"></viz:size>
+        <viz:position x="-625.00775" y="-1225.3203"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="17" label="@AbeShinzo">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.585365"></viz:size>
+        <viz:position x="-644.33466" y="-1389.6506"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="18" label="@MariaBartiromo">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="19.268291"></viz:size>
+        <viz:position x="-693.09845" y="-757.49554"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="19" label="@seanhannity">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="19.268291"></viz:size>
+        <viz:position x="-1136.666" y="-1403.3336"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="20" label="@FoxBusiness">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="19.268291"></viz:size>
+        <viz:position x="-893.9692" y="-584.98047"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="21" label="@BreitbartNews">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-588.273" y="-767.56445"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="22" label="@GreggJarrett">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-527.0232" y="-1070.3892"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="23" label="@Cabinet">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-1075.6028" y="-1475.4811"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="24" label="@EmmanuelMacron">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-536.6466" y="-1120.514"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="25" label="@DRUDGE_REPORT">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-1211.2412" y="-638.6024"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="26" label="@dougmillsnyt">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="16.95122"></viz:size>
+        <viz:position x="-1542.9729" y="-1084.5669"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="27" label="@GOPChairwoman">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-827.86926" y="-575.53326"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="28" label="@trueamerica1st">
+        <attvalues>
+          <attvalue for="category" value="Bot"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-1440.9636" y="-745.8975"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="29" label="@StateDept">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-666.0654" y="-1242.0292"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="30" label="@SecNielsen">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-793.0245" y="-622.1438"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="31" label="@g7">
+        <attvalues>
+          <attvalue for="category" value="Organization"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-642.29517" y="-772.1836"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="32" label="@VP">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-1129.189" y="-1352.4717"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="33" label="@USNavy">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.634146"></viz:size>
+        <viz:position x="-580.2234" y="-1058.6411"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="34" label="@NCEmergency">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1122.2595" y="-1242.0985"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="35" label="@CoreyStewartVA">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1357.3091" y="-1313.2356"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="36" label="@FEMAespanol">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1185.0369" y="-685.54474"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="37" label="@NHC_Atlantic">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-940.0396" y="-1507.9673"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="38" label="@mike_pence">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1245.7163" y="-1258.1432"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="39" label="@Rasmussen_Poll">
+        <attvalues>
+          <attvalue for="category" value="Polling"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1238.3745" y="-675.88666"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="40" label="@USCG">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-570.37744" y="-1249.9703"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="41" label="@JudgeJeanine">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1501.6705" y="-821.36755"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="42" label="@VFWHQ">
+        <attvalues>
+          <attvalue for="category" value="Lobby"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1391.6472" y="-710.17474"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="43" label="@JudicialWatch">
+        <attvalues>
+          <attvalue for="category" value="Lobby"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-747.4589" y="-689.7108"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="44" label="@NRA">
+        <attvalues>
+          <attvalue for="category" value="Lobby"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-570.3838" y="-812.8742"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="45" label="@PeteStauber">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-717.7699" y="-783.19763"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="46" label="@Troy_Balderson">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-731.76935" y="-724.19415"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="47" label="@WVGovernor">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.317073"></viz:size>
+        <viz:position x="-1245.398" y="-1314.7845"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="48" label="@NCDOT">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1208.7115" y="-1237.3456"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="49" label="@SCEMD">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-683.1451" y="-1216.5385"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="50" label="@The_Trump_Train">
+        <attvalues>
+          <attvalue for="category" value="Bot"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1175.3214" y="-1367.4526"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="51" label="@DeptofDefense">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-709.1514" y="-1202.0924"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="52" label="@RedCross">
+        <attvalues>
+          <attvalue for="category" value="Non-profit"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1313.4541" y="-653.4489"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="53" label="@USNationalGuard">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-594.3624" y="-1241.8147"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="54" label="@PressSec">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1277.4723" y="-691.4819"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="55" label="@NFIB">
+        <attvalues>
+          <attvalue for="category" value="Lobby"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1171.1307" y="-1337.7479"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="56" label="@nikkihaley">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-796.17957" y="-787.8759"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="57" label="@Norad_Northcom">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-754.3937" y="-641.42316"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="58" label="@SecretService">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1176.7362" y="-1242.9668"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="59" label="@SecAzar">
+        <attvalues>
+          <attvalue for="category" value="White House"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1211.968" y="-1375.3416"></viz:position>
+        <viz:color r="254" g="254" b="254"></viz:color>
+      </node>
+      <node id="60" label="@KimKardashian">
+        <attvalues>
+          <attvalue for="category" value="Celebrity"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1105.2247" y="-1442.2245"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="61" label="@HHSGov">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-782.4651" y="-582.70294"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="62" label="@greggutfeld">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-537.2972" y="-840.72003"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="63" label="@MSNBC">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1054.3604" y="-589.57745"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="64" label="@PeteHegseth">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1575.0168" y="-946.75635"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="65" label="@CortesSteve">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1194.093" y="-1330.8281"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="66" label="@ArmyWP_Football">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1068.9338" y="-556.3014"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="67" label="@Colts">
+        <attvalues>
+          <attvalue for="category" value="Sports"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-626.7867" y="-1331.081"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="68" label="@DeptVetAffairs">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-667.1185" y="-1340.1078"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="69" label="@FEMA_Brock">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1532.258" y="-934.0518"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="70" label="@GiuseppeConteIT">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1024.3004" y="-1505.991"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="71" label="@henrymcmaster">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-648.8778" y="-723.05426"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="72" label="@ICEgov">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-698.556" y="-1366.0586"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="73" label="@JohnKasich">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-977.2636" y="-1492.6161"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="74" label="@JPN_PMO">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1233.1075" y="-1336.153"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="75" label="@JunckerEU">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-766.9391" y="-711.2613"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="76" label="@JustinTrudeau">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-684.1602" y="-1117.9307"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="77" label="@LindseyGrahamSC">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-704.46106" y="-1166.9034"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="78" label="@MarkBurnettTV">
+        <attvalues>
+          <attvalue for="category" value="Celebrity"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-655.69745" y="-1101.4366"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="79" label="@MartinTruex_Jr">
+        <attvalues>
+          <attvalue for="category" value="Sports"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1376.0448" y="-1245.099"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="80" label="@paulsperry_">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1259.0789" y="-629.8361"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="81" label="@NASA">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-607.06805" y="-1096.6688"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="82" label="@NASCAR">
+        <attvalues>
+          <attvalue for="category" value="Sports"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-760.00616" y="-779.81647"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="83" label="@NavalAcademy">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1146.9966" y="-1332.0009"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="84" label="@Netanyahu">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-504.19394" y="-882.9444"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="85" label="@JesseBWatters">
+        <attvalues>
+          <attvalue for="category" value="News"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1080.2798" y="-1411.9114"></viz:position>
+        <viz:color r="0" g="90" b="194"></viz:color>
+      </node>
+      <node id="86" label="@RandPaul">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-981.4572" y="-571.0905"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="87" label="@RepDanDonovan">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-785.2975" y="-1095.3198"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="88" label="@Saccone4PA18">
+        <attvalues>
+          <attvalue for="category" value="Politician - Republican"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1027.3486" y="-562.0447"></viz:position>
+        <viz:color r="255" g="9" b="0"></viz:color>
+      </node>
+      <node id="89" label="@TomFitton">
+        <attvalues>
+          <attvalue for="category" value="Lobby"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-629.83575" y="-1125.9131"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="90" label="@TurnbullMalcolm">
+        <attvalues>
+          <attvalue for="category" value="Politician - Foreign"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-724.30884" y="-1456.4417"></viz:position>
+        <viz:color r="252" g="119" b="20"></viz:color>
+      </node>
+      <node id="91" label="@USArmy">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-686.9132" y="-707.8335"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+      <node id="92" label="@WestervillePD">
+        <attvalues>
+          <attvalue for="category" value="Government"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1212.2339" y="-1343.3599"></viz:position>
+        <viz:color r="36" g="153" b="31"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="1" weight="84.0"></edge>
+      <edge id="1" source="1" target="2" weight="62.0"></edge>
+      <edge id="2" source="1" target="3" weight="48.0"></edge>
+      <edge id="3" source="1" target="4" weight="48.0"></edge>
+      <edge id="4" source="1" target="5" weight="38.0"></edge>
+      <edge id="5" source="1" target="6" weight="15.0"></edge>
+      <edge id="6" source="1" target="7" weight="12.0"></edge>
+      <edge id="7" source="1" target="8" weight="11.0"></edge>
+      <edge id="8" source="1" target="9" weight="10.0"></edge>
+      <edge id="9" source="1" target="10" weight="9.0"></edge>
+      <edge id="10" source="1" target="12" weight="8.0"></edge>
+      <edge id="11" source="1" target="13" weight="7.0"></edge>
+      <edge id="12" source="1" target="14" weight="7.0"></edge>
+      <edge id="13" source="1" target="17" weight="7.0"></edge>
+      <edge id="14" source="1" target="19" weight="6.0"></edge>
+      <edge id="15" source="1" target="20" weight="6.0"></edge>
+      <edge id="16" source="1" target="25" weight="5.0"></edge>
+      <edge id="17" source="1" target="26" weight="5.0"></edge>
+      <edge id="18" source="1" target="27" weight="4.0"></edge>
+      <edge id="19" source="1" target="28" weight="4.0"></edge>
+      <edge id="20" source="1" target="29" weight="4.0"></edge>
+      <edge id="21" source="1" target="30" weight="4.0"></edge>
+      <edge id="22" source="1" target="31" weight="4.0"></edge>
+      <edge id="23" source="1" target="32" weight="4.0"></edge>
+      <edge id="24" source="1" target="34" weight="3.0"></edge>
+      <edge id="25" source="1" target="35" weight="3.0"></edge>
+      <edge id="26" source="1" target="36" weight="3.0"></edge>
+      <edge id="27" source="1" target="37" weight="3.0"></edge>
+      <edge id="28" source="1" target="38" weight="3.0"></edge>
+      <edge id="29" source="1" target="39" weight="3.0"></edge>
+      <edge id="30" source="1" target="40" weight="3.0"></edge>
+      <edge id="31" source="1" target="48" weight="2.0"></edge>
+      <edge id="32" source="1" target="49" weight="2.0"></edge>
+      <edge id="33" source="1" target="50" weight="2.0"></edge>
+      <edge id="34" source="1" target="51" weight="2.0"></edge>
+      <edge id="35" source="1" target="52" weight="2.0"></edge>
+      <edge id="36" source="1" target="53" weight="2.0"></edge>
+      <edge id="37" source="1" target="54" weight="2.0"></edge>
+      <edge id="38" source="1" target="55" weight="2.0"></edge>
+      <edge id="39" source="1" target="56" weight="2.0"></edge>
+      <edge id="40" source="1" target="57" weight="2.0"></edge>
+      <edge id="41" source="1" target="58" weight="2.0"></edge>
+      <edge id="42" source="1" target="59" weight="2.0"></edge>
+      <edge id="43" source="1" target="60" weight="2.0"></edge>
+      <edge id="44" source="1" target="61" weight="2.0"></edge>
+      <edge id="45" source="1" target="65" weight="2.0"></edge>
+      <edge id="46" source="1" target="80" weight="2.0"></edge>
+      <edge id="47" source="1" target="85" weight="2.0"></edge>
+      <edge id="55" source="1" target="11" weight="9.0"></edge>
+      <edge id="58" source="1" target="15" weight="7.0"></edge>
+      <edge id="59" source="1" target="16" weight="7.0"></edge>
+      <edge id="61" source="1" target="18" weight="6.0"></edge>
+      <edge id="64" source="1" target="21" weight="5.0"></edge>
+      <edge id="65" source="1" target="22" weight="5.0"></edge>
+      <edge id="66" source="1" target="23" weight="5.0"></edge>
+      <edge id="67" source="1" target="24" weight="5.0"></edge>
+      <edge id="73" source="1" target="33" weight="4.0"></edge>
+      <edge id="78" source="1" target="41" weight="3.0"></edge>
+      <edge id="79" source="1" target="42" weight="3.0"></edge>
+      <edge id="80" source="1" target="43" weight="3.0"></edge>
+      <edge id="81" source="1" target="44" weight="3.0"></edge>
+      <edge id="82" source="1" target="45" weight="3.0"></edge>
+      <edge id="83" source="1" target="46" weight="3.0"></edge>
+      <edge id="84" source="1" target="47" weight="3.0"></edge>
+      <edge id="94" source="1" target="62" weight="2.0"></edge>
+      <edge id="95" source="1" target="63" weight="2.0"></edge>
+      <edge id="96" source="1" target="64" weight="2.0"></edge>
+      <edge id="98" source="1" target="66" weight="2.0"></edge>
+      <edge id="99" source="1" target="67" weight="2.0"></edge>
+      <edge id="100" source="1" target="68" weight="2.0"></edge>
+      <edge id="101" source="1" target="69" weight="2.0"></edge>
+      <edge id="102" source="1" target="70" weight="2.0"></edge>
+      <edge id="103" source="1" target="71" weight="2.0"></edge>
+      <edge id="104" source="1" target="72" weight="2.0"></edge>
+      <edge id="105" source="1" target="73" weight="2.0"></edge>
+      <edge id="106" source="1" target="74" weight="2.0"></edge>
+      <edge id="107" source="1" target="75" weight="2.0"></edge>
+      <edge id="108" source="1" target="76" weight="2.0"></edge>
+      <edge id="109" source="1" target="77" weight="2.0"></edge>
+      <edge id="110" source="1" target="78" weight="2.0"></edge>
+      <edge id="111" source="1" target="79" weight="2.0"></edge>
+      <edge id="112" source="1" target="81" weight="2.0"></edge>
+      <edge id="113" source="1" target="82" weight="2.0"></edge>
+      <edge id="114" source="1" target="83" weight="2.0"></edge>
+      <edge id="115" source="1" target="84" weight="2.0"></edge>
+      <edge id="116" source="1" target="86" weight="2.0"></edge>
+      <edge id="117" source="1" target="87" weight="2.0"></edge>
+      <edge id="118" source="1" target="88" weight="2.0"></edge>
+      <edge id="119" source="1" target="89" weight="2.0"></edge>
+      <edge id="120" source="1" target="90" weight="2.0"></edge>
+      <edge id="121" source="1" target="91" weight="2.0"></edge>
+      <edge id="122" source="1" target="92" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>
